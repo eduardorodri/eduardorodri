@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Rodrigues
 
 
-- 🧑‍💻 Sou estudante do curso análise e desenvolvimento de sistemas, cursando o 3° Semestre.
+- 🧑‍💻 Sou estudante do curso análise e desenvolvimento de sistemas, cursando o 4° Semestre.
 - 🎮 Apaixonado por tecnologia e jogos.
 - 🤗 Busco uma oportunidade para minha primeira vaga como desenvolvedor.
 <div align="center">

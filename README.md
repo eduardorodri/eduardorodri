@@ -11,14 +11,6 @@
 </div>
 
 ### Estou aprendendo:
-<style>
-    .icon-container {
-      display: flex;
-    }
-    .icon {
-      margin-right: 10px; /* Adicione margem entre os ícones se desejar */
-    }
-  </style>
   
 <div class="icon-container">
   <img class="icon" align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

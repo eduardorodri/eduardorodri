@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Full-Stack Developer 👨🏽‍💻<br>-Formado em Análise e Desenvolvimento de Sistemas 🎓<br>-Apaixonado por tecnologia e jogos 💻</p>
+<p align="left">-Full-Stack Developer and QA 👨🏽‍💻<br>-Formado em Análise e Desenvolvimento de Sistemas 🎓<br>-Apaixonado por tecnologia e jogos 💻</p>
 
 ###
 

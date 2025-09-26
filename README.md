@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardorodri"  />
+  <img src="https://komarev.com/ghpvc/?username=eduardorodri&color=brightgreen&style=for-the-badge"  />
 </div>
 
 ###

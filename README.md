@@ -36,6 +36,15 @@
 
 ###
 
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=eduardorodri&theme=nightowl&area=true&cache_seconds=86400"
+    height="300"
+    alt="GitHub Activity Graph"
+  />
+
+</div>
 
 ###
 

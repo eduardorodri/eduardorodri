@@ -37,11 +37,33 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardorodri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardorodri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=eduardorodri&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardorodri&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=eduardorodri&show_icons=true&include_all_commits=true&theme=material-palenight&cache_seconds=86400"
+    height="150"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardorodri&layout=compact&langs_count=5&theme=material-palenight&cache_seconds=86400"
+    height="150"
+    alt="Top Languages"
+  />
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=eduardorodri&theme=dark_lover&margin-w=8&margin-h=8&cache_seconds=86400"
+    height="150"
+    alt="GitHub Trophies"
+  />
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=eduardorodri&theme=nightowl&area=true&cache_seconds=86400"
+    height="300"
+    alt="GitHub Activity Graph"
+  />
+
 </div>
+
 
 ###
 

@@ -36,34 +36,6 @@
 
 ###
 
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=eduardorodri&show_icons=true&include_all_commits=true&theme=material-palenight&cache_seconds=86400"
-    height="150"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardorodri&layout=compact&langs_count=5&theme=material-palenight&cache_seconds=86400"
-    height="150"
-    alt="Top Languages"
-  />
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=eduardorodri&theme=dark_lover&margin-w=8&margin-h=8&cache_seconds=86400"
-    height="150"
-    alt="GitHub Trophies"
-  />
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=eduardorodri&theme=nightowl&area=true&cache_seconds=86400"
-    height="300"
-    alt="GitHub Activity Graph"
-  />
-
-</div>
-
 
 ###
 

@@ -22,7 +22,7 @@
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 📚 Atualmente me preparando para tirar a certificação **CTFL**.
 - 💻 Experiência com Desenvolvimento Web e Suporte de TI.
-- ⚡ **Curiosidades:** Nas horas vagas, você me encontra focado treinando na academia ou jogando algo haha.
+- ⚡ **Curiosidades:** Nas horas vagas, você me encontra focado treinando ou jogando.
 
 ---
 

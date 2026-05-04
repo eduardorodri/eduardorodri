@@ -21,8 +21,8 @@
 - 🔍 Em transição e focado na área de **Quality Assurance (QA)** e testes automatizados.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 📚 Atualmente me preparando para tirar a certificação **CTFL**.
-- 💻 Tenho sólida base com Desenvolvimento Web e Suporte de TI.
-- ⚡ **Curiosidades:** Nas horas vagas, você me encontra focado nos treinos pesados na academia ou imerso na cultura geek.
+- 💻 Experiência com Desenvolvimento Web e Suporte de TI.
+- ⚡ **Curiosidades:** Nas horas vagas, você me encontra focado treinando na academia ou jogando algo haha.
 
 ---
 

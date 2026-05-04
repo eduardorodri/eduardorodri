@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=250&section=header&text=Olá,%20eu%20sou%20o%20Eduardo!&fontSize=50&desc=QA%20%26%20Software%20Developer&descSize=22&descAlignY=75&fontColor=ffffff" alt="Banner Eduardo" />
+  <h1> Olá, eu sou o Eduardo Rodrigues! 👋 </h1>
+  <p><strong>QA & IT Support | Analista de Sistemas</strong></p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Focado%20em%20QA-blue?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Local-Mato%20Grosso,%20Brasil-green?style=for-the-badge" alt="Local">
 </div>
 
 <br/>
@@ -16,7 +22,7 @@
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 📚 Atualmente me preparando para tirar a certificação **CTFL**.
 - 💻 Tenho sólida base com Desenvolvimento Web e Suporte de TI.
-- ⚡ **Curiosidades:** Nas horas vagas, você me encontra focado nos treinos pesados na academia ou imerso na cultura geek (especialmente maratonando Jujutsu Kaisen ou jogando Resident Evil!).
+- ⚡ **Curiosidades:** Nas horas vagas, você me encontra focado nos treinos pesados na academia ou imerso na cultura geek.
 
 ---
 
@@ -62,8 +68,5 @@
   </a>
   <a href="https://wa.me/5566996137191" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/eduardorodr_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+o+Eduardo+Rodrigues;QA+%26+Software+Developer;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=250&section=header&text=Olá,%20eu%20sou%20o%20Eduardo!&fontSize=50&desc=QA%20%26%20Software%20Developer&descSize=22&descAlignY=75&fontColor=ffffff" alt="Banner Eduardo" />
 </div>
 
 <br/>
@@ -34,8 +34,7 @@
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardorodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorodri&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardorodri&theme=tokyonight" alt="GitHub Summary Card" />
 </div>
 
 <br>

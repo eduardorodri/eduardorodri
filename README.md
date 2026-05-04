@@ -1,88 +1,70 @@
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">
-- IT Support & QA 💻🔍<br>
-- Graduated in Systems Analysis and Development 🎓<br>
-- Passionate about technology and games 🎮
-</p>
-
-###
-
-<h2 align="center">Techs</h2>
-
-###
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" height="40" alt="cypress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+o+Eduardo+Rodrigues;QA+%26+Software+Developer;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
-###
-
-<h2 align="left">Stats</h2>
-
-###
+<br/>
 
 <div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=eduardorodri&theme=nightowl&area=true&cache_seconds=86400"
-    height="300"
-    alt="GitHub Activity Graph"
-  />
-
+  <img src="https://komarev.com/ghpvc/?username=eduardorodri&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile Views" />
 </div>
 
-###
+---
 
-<h2 align="center">Social Media</h2>
+## 👨‍💻 Sobre Mim
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/eduardodevrodrigues/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:eduardo-94rodrigues@outlook.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://wa.me/5566996137191" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/eduardorodr_/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+- 🔍 Em transição e focado na área de **Quality Assurance (QA)** e testes automatizados.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+- 📚 Atualmente me preparando para tirar a certificação **CTFL**.
+- 💻 Tenho sólida base com Desenvolvimento Web e Suporte de TI.
+- ⚡ **Curiosidades:** Nas horas vagas, você me encontra focado nos treinos pesados na academia ou imerso na cultura geek (especialmente maratonando Jujutsu Kaisen ou jogando Resident Evil!).
 
-###
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardorodri&color=brightgreen&style=for-the-badge"  />
+  <!-- Você pode adicionar ou remover ícones facilmente alterando a URL abaixo -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,postman,react,js,cs,dotnet,java,laravel,mysql,git" />
+  </a>
 </div>
 
-###
+---
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardorodri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorodri&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardorodri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardorodri&theme=tokyonight&area=true&cache_seconds=86400&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🤝 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardodevrodrigues/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:eduardo-94rodrigues@outlook.com">
+    <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+  <a href="https://wa.me/5566996137191" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/eduardorodr_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>

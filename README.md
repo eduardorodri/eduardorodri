@@ -31,7 +31,7 @@
 <div align="center">
   <!-- Você pode adicionar ou remover ícones facilmente alterando a URL abaixo -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,postman,react,js,cs,dotnet,java,laravel,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=cypress,postman,react,js,ts,cs,dotnet,java,laravel,mysql,git" />
   </a>
 </div>
 
